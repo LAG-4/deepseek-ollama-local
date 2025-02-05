@@ -84,8 +84,8 @@ st.markdown("""
     }
 </style>
 """, unsafe_allow_html=True)
-st.title("Deepseek Code Companion")
-st.caption("AI Pair Progreammer with Debugginf superpower")
+st.title("Deepseek That Works")
+st.caption("As DeepSeek never works it sbetter to use ollama and run it locally")
 import streamlit as st
 
 # Sidebar Configuration
